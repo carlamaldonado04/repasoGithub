@@ -24,5 +24,7 @@ _**hola**_ *__carla__*
   ```
 
  
- [Enlace a wikipedia] (https://www.wikipedia.org/ "haciendo clic vas a wikipedia")
+ [Enlace a wikipedia] (https://www.wikipedia.org/  "haciendo clic vas a wikipedia")
+ 
+ ![foto] (https://github.com/carlamaldonado04/repasoGithub/blob/main/foto.jpg "foto")
 
