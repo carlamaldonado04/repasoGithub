@@ -28,3 +28,7 @@ _**hola**_ *__carla__*
  
  ![foto](https://github.com/carlamaldonado04/repasoGithub/blob/main/foto.jpg "foto")
 
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+|---------------| :-----------: | -----------:|
+| item 1 | bolis | 20$ |
+|item 2 | libreta | 300 $ |
